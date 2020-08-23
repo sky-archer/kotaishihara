@@ -1,0 +1,171 @@
+.contents {
+  width: 1300px;
+  margin: 0 auto;
+}
+
+header {
+  height: 40px;
+  background-color: white;
+
+
+}
+
+.header-left img {
+  width: 300px;
+  float: left;
+  padding-top: 7px;
+}
+
+.header-right {
+  float: right;
+
+
+}
+
+.header-right a {
+  color: black;
+  font-size: 30px;
+  padding-right: 30px;
+  padding-top: 22px;
+  display: inline-block;
+
+}
+
+
+.top-wrapper {
+  height: 800px;
+  background-color: black;
+  text-align: center;
+}
+
+body {margin: 0; padding: 0;
+}
+
+.myname {
+  color: white;
+  padding: 300px 0 20px 0;
+  font-size: 80px;
+
+}
+
+.subname {
+  color: white;
+  font-size: 30px;
+}
+
+.philosophy-wrapper {
+  height: 300px;
+  background-color: yellow;
+}
+
+.philosophytitle {
+  color: black;
+  font-size: 40px;
+  padding: 30px 0 15px 0;
+}
+
+.philosophycontents {
+  color: black;
+  font-size: 20px;
+}
+
+.letterspace {
+  letter-spacing: 2px;
+}
+
+
+.saleact img {
+  display: inline-block;
+  float: left;
+
+
+}
+
+.sale-wrapper {
+  height: 450px;
+  background-color: white;
+}
+
+
+
+.sale2-wrapper {
+  height: 450px;
+  background-color: blue;
+  text-align: center;
+}
+
+.sale2name {
+  font-size: 50px;
+  color: orange;
+  padding-top: 45px;
+
+}
+
+.sale2name1 {
+  font-size: 50px;
+  color: orange;
+
+}
+
+.buy {
+  display: inline-block;
+  color: yellow;
+  background-color: black;
+  opacity: 0.8;
+  border-radius: 5px;
+  margin-top: 60px;
+  padding: 20px;
+  cursor: pointer;
+
+
+}
+
+.buy:hover {
+  background-color: red;
+
+}
+
+.final-wrapper {
+  height: 450px;
+  background-color: red;
+  text-align: center;
+
+}
+
+.finalexplain {
+  color: white;
+  font-size: 40px;
+
+}
+
+.final-wrapper h1 {
+  color: white;
+  font-size: 50px;
+  padding-top: 20px;
+}
+
+.finalexplain2 {
+  color: white;
+  font-size: 40px;
+}
+
+.email {
+  color: black;
+  font-size: 30px;
+  padding-top: 15px;
+}
+
+
+
+footer p {
+  font-size: 20px;
+}
+
+.header-right a:hover {
+  background-color: black;
+  opacity: 0.5;
+  color: white;
+  padding-bottom: 26.5px;
+  padding-left: 30px;
+
+}
